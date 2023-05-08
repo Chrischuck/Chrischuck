@@ -1,14 +1,17 @@
-<h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">Fullstack developer from California!</h3>
+<h1 align="center">Hi there! I'm Chris</h1>
 
-- 🔭 I’m currently learning: **Machine learning,**
-
-- 🌱 Interests include: **Ecology, herpetology, entomology, botany**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/the-chris-chuck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="the-chris-chuck" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<b>I am a Software Engineer at Google and a member of the Air National Guard.</b>
+<p>My goals are to eventually use my engineering + military skills for conservation.</p>
+  
+<p>In my free time I'm always doing something animal related!</p>
+<p>Below are some of my favorite finds!</p>
+<div>
+<img src="https://user-images.githubusercontent.com/13311268/236928793-0a798f32-dc7c-4652-88eb-813c2db16194.jpg" height="250px" />
+<img src="https://user-images.githubusercontent.com/13311268/236927982-d8fe5bb4-857c-4812-9189-12fc7147ed8c.jpeg" height="250px"/>
+<img src="https://user-images.githubusercontent.com/13311268/236928803-9ac8908e-1f05-4a35-b3c8-d4256a34af41.JPG" height="250px" />
+<img src="https://user-images.githubusercontent.com/13311268/236928832-e79a5a88-5ab3-4408-845a-798dcf76c8af.jpg" height="250px"/>
+<img src="https://user-images.githubusercontent.com/13311268/236929827-4de76f67-5028-4d6f-9b52-a242aee327a1.JPG" height="250px" />
+<img src="https://user-images.githubusercontent.com/13311268/236930243-eb907bf8-afc7-4aee-899a-87e3891e33c4.JPG" height="250px" />
+<img src="https://user-images.githubusercontent.com/13311268/236932865-ac280f2f-c57c-4435-b4b1-aed55870d036.JPG" height="250px" />
+<img src="https://user-images.githubusercontent.com/13311268/236932890-d3f36e71-c172-4b98-a140-bbc58e115dc1.JPG" height="250px" />
+</div>
