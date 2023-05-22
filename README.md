@@ -3,7 +3,7 @@
 <b>I am a Software Engineer at Google and a member of the Air National Guard.</b>
 <p>My goals are to eventually use my engineering + military skills for wildlife conservation.</p>
   
-<p>In my free time I'm always doing something animal related!</p>
+<p>In my free time I'm always exploring the biodiversity around me!</p>
 <p>Below are some of my favorite finds!</p>
 <div>
 <img alt="Legless lizard" src="https://user-images.githubusercontent.com/13311268/236928793-0a798f32-dc7c-4652-88eb-813c2db16194.jpg" height="250px" />
