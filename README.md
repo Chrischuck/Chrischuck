@@ -13,6 +13,7 @@
 <img alt="California giant salamander" src="https://user-images.githubusercontent.com/13311268/236929827-4de76f67-5028-4d6f-9b52-a242aee327a1.JPG" height="250px" />
 <img alt="Dollof cave spider" src="https://user-images.githubusercontent.com/13311268/236930243-eb907bf8-afc7-4aee-899a-87e3891e33c4.JPG" height="250px" />
 <img alt="Florida softshell turtle" src="https://user-images.githubusercontent.com/13311268/236932865-ac280f2f-c57c-4435-b4b1-aed55870d036.JPG" height="250px" />
+<img alt="Eastern copperhead" src="https://github.com/Chrischuck/Chrischuck/assets/13311268/0c1d47e9-be04-4f84-a659-e51a0cf47f86" height="250px" />
 <img alt="Gopher snake" src="https://user-images.githubusercontent.com/13311268/236932890-d3f36e71-c172-4b98-a140-bbc58e115dc1.JPG" height="250px" />
 <img alt="Western black widow" src="https://user-images.githubusercontent.com/13311268/236933586-b573e90d-4f69-499e-985a-2bf5d1d922ae.JPG" height="250px" />
 </div>
