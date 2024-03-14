@@ -16,4 +16,5 @@
 <img alt="Eastern copperhead" src="https://github.com/Chrischuck/Chrischuck/assets/13311268/0c1d47e9-be04-4f84-a659-e51a0cf47f86" height="250px" />
 <img alt="Gopher snake" src="https://user-images.githubusercontent.com/13311268/236932890-d3f36e71-c172-4b98-a140-bbc58e115dc1.JPG" height="250px" />
 <img alt="Western black widow" src="https://user-images.githubusercontent.com/13311268/236933586-b573e90d-4f69-499e-985a-2bf5d1d922ae.JPG" height="250px" />
+<img alt="Honey Creek Cave Salamander" src="https://github.com/Chrischuck/Chrischuck/assets/13311268/9e1fc2ff-67ba-4ba9-9bf7-2a4e33d71204" height="250px" />
 </div>
