@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! I'm Chris</h1>
 
-<b>I am a Software Engineer at Google and a member of the Air National Guard.</b>
+<b>I am a Software Engineer at Google and Pararescueman.</b>
 <p>My goals are to eventually use my engineering skills + military experience for wildlife conservation.</p>
   
 <p>In my free time I'm always exploring the biodiversity around me!</p>
